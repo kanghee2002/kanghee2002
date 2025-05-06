@@ -1,17 +1,13 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanghee2002)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghee2002&hide=contribs,prs&show_icons=true&theme=graywhite)
-
+# 👋 안녕하세요! 개발자 원강희입니다
+---
+# GitHub Stats
 <!--
 **kanghee2002/kanghee2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 😄 Personal Info
+- Won KangHee
+- Korea University
+- Computer Science and Engineering
+- rkdgml0820@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📝 Portfolio - [Here](https://sudsy-blender-fda.notion.site/1e9b12d9597e804b9cb4cb37efa1adc6)
