@@ -1,8 +1,7 @@
 # 👋 안녕하세요! 개발자 원강희입니다
 ---
 # GitHub Stats
-<!--
-**kanghee2002/kanghee2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**kanghee2002/kanghee2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 😄 Personal Info
 - Won KangHee
